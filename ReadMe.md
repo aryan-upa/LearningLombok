@@ -40,4 +40,5 @@ Using lombok significantly reduces the code size and increase the readability. I
 | Resource                     | Link                                                                          |
 |------------------------------|-------------------------------------------------------------------------------|
 | Amigoscode Video on Lombok   | [Click](https://youtu.be/z7bsNF2Dtf0?list=PLwvrYc43l1MyAmDss3HEYYBIQwY3pITeA) |
-| Github Profile of Amigoscode | [Click](https://github.com/amigoscode)                                        |                                                                             |
+| Github Profile of Amigoscode | [Click](https://github.com/amigoscode)                                        |
+ | Lombok Official Page         | [Click](https://projectlombok.org/)                                           |
