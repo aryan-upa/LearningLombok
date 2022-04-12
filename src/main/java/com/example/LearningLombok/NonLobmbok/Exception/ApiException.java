@@ -1,4 +1,4 @@
-package com.example.LearningLombok.Exception;
+package com.example.LearningLombok.NonLobmbok.Exception;
 
 public class ApiException {
     private final String message;

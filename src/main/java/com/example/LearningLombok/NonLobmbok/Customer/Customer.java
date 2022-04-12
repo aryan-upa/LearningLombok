@@ -1,4 +1,4 @@
-package com.example.LearningLombok.Customer;
+package com.example.LearningLombok.NonLobmbok.Customer;
 
 import java.util.Objects;
 

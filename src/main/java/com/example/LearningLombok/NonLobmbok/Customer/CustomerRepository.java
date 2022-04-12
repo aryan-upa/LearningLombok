@@ -1,4 +1,4 @@
-package com.example.LearningLombok.Customer;
+package com.example.LearningLombok.NonLobmbok.Customer;
 
 import org.springframework.stereotype.Repository;
 import java.lang.annotation.Annotation;
